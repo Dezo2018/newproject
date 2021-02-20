@@ -2,5 +2,6 @@ class ganesh{
               
                 public static void main(String[] arg){
                    system.out.println("This is the first program here");
+                   system.out.println("Second line added now to the program here");
 }
 }
